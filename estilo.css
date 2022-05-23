@@ -1,0 +1,35 @@
+#contenedor{
+    width: 980px;
+    margin: 0;
+}
+.columna{
+    display: inline-block;
+    padding: 2rem;
+}
+#titulo{
+    text-align: center; text-decoration: underline;
+}
+.bienvenida{
+    text-align: center; text-decoration: cadetblue;
+}
+form{
+    text-align: center;
+}
+#animales{
+    width: 1200px;
+}
+h2,h3{
+    width: 800; height: auto; text-align: center;
+}
+.aceptar{
+  text-decoration: underline; text-transform: uppercase;
+}
+#question{
+  text-align: inherit;
+}
+.video{
+  max-inline-size: 100;
+}
+iframe{
+  align-items: center;
+}
